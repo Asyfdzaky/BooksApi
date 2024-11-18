@@ -174,7 +174,7 @@ API ini merupakan bagian dari aplikasi Laravel yang menyediakan fitur CRUD untuk
     "message": "Book delete successfully",
     }
     ```
-  -**404 Not Found**:
+  - **404 Not Found**:
     ```json
     {
         "message": "Books not found"
